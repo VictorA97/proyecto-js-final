@@ -107,7 +107,7 @@ const stockProductos = [
           confirmButtonText: "Aceptar",
         });
       } else {
-        location.href = "../pages/compra.html";
+        location.href = "./pages/compra.html";
       }
     });
   }
