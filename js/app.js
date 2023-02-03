@@ -5,7 +5,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "Black",
       precio: 1200,
-      img: "assets/img/black.jpg",
+      img: "./assets/img/Black.jpg",
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "Brown",
       precio: 1500,
-      img: "assets/img/Brown.jpg",
+      img: "./assets/img/Brown.jpg",
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "Pink",
       precio: 1570,
-      img: "assets/img/Pink.jpg",
+      img: "./assets/img/Pink.jpg",
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "White",
       precio: 1000,
-      img: "assets/img/White.jpg",
+      img: "./assets/img/White.jpg",
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ const stockProductos = [
         cantidad: 1,
         desc: "Black 2",
         precio: 1200,
-        img: "assets/img/black.jpg",
+        img: "./assets/img/Black.jpg",
       },
       {
         id: 6,
@@ -45,7 +45,7 @@ const stockProductos = [
         cantidad: 1,
         desc: "Brown 2",
         precio: 1500,
-        img: "assets/img/Brown.jpg",
+        img: "./assets/img/Brown.jpg",
       },
       {
         id: 7,
@@ -53,7 +53,7 @@ const stockProductos = [
         cantidad: 1,
         desc: "Pink 2",
         precio: 1570,
-        img: "assets/img/Pink.jpg",
+        img: "./assets/img/Pink.jpg",
       },
       {
         id: 8,
@@ -61,7 +61,7 @@ const stockProductos = [
         cantidad: 1,
         desc: "White 2",
         precio: 1000,
-        img: "assets/img/White.jpg",
+        img: "./assets/img/White.jpg",
       },
   ];
   let carrito = [];
